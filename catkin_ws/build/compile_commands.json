@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/camilo/catkin_ws/build/modrob_control_devices/modrob_control_wiimote",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"modrob_control_wiimote\\\" -I/home/camilo/catkin_ws/devel/include -I/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -fPIE -fPIC -std=c++11 -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -o CMakeFiles/teleop_wiimote.dir/src/teleop_wiimote.cpp.o -c /home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/teleop_wiimote.cpp",
+  "file": "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/teleop_wiimote.cpp"
+},
+{
+  "directory": "/home/camilo/catkin_ws/build/modrob_control_devices/modrob_control_wiimote",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"modrob_control_wiimote\\\" -I/home/camilo/catkin_ws/devel/include -I/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -fPIE -fPIC -std=c++11 -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -o CMakeFiles/inverse_kin.dir/src/inverse_kin.cpp.o -c /home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/inverse_kin.cpp",
+  "file": "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/inverse_kin.cpp"
+},
+{
+  "directory": "/home/camilo/catkin_ws/build/modrob_control_devices/modrob_control_wiimote",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"modrob_control_wiimote\\\" -I/home/camilo/catkin_ws/devel/include -I/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -fPIE -fPIC -std=c++11 -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o -c /home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/wiimote_controller.cpp",
+  "file": "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/wiimote_controller.cpp"
+},
+{
+  "directory": "/home/camilo/catkin_ws/build/modrob_control_devices/modrob_control_wiimote",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"modrob_control_wiimote\\\" -I/home/camilo/catkin_ws/devel/include -I/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -fPIE -fPIC -std=c++11 -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o -c /home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/stat_vector_3d.cpp",
+  "file": "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/stat_vector_3d.cpp"
+},
+{
+  "directory": "/home/camilo/catkin_ws/build/modrob_control_devices/modrob_control_wiimote",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"modrob_control_wiimote\\\" -I/home/camilo/catkin_ws/devel/include -I/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -fPIE -fPIC -std=c++11 -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -o CMakeFiles/teleop_keyboard.dir/src/teleop_keyboard.cpp.o -c /home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/teleop_keyboard.cpp",
+  "file": "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/src/teleop_keyboard.cpp"
+}
+]

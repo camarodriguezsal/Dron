@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/devel
+
+Name: modrob_control_data
+Description: Description of modrob_control_data
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

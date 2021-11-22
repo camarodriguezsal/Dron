@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/devel
+
+Name: modrob_visualization
+Description: Description of modrob_visualization
+Version: 1.0.0
+Cflags: -I/home/camilo/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime moveit_core moveit_visual_tools moveit_ros_planning_interface

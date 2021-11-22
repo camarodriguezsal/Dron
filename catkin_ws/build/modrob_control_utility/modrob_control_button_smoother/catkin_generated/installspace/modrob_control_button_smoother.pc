@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: modrob_control_button_smoother
+Description: Description of modrob_control_button_smoother
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

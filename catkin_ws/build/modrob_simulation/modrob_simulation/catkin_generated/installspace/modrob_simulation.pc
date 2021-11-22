@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: modrob_simulation
+Description: Description of modrob_simulation
+Version: 2.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

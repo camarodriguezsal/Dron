@@ -1,0 +1,2 @@
+set(modrob_simulation_MESSAGE_FILES "msg/JointConfigCommanded.msg;msg/JointConfigMeasured.msg;msg/JointDescription.msg;msg/LinkCollision.msg;msg/LinkDescription.msg;msg/LinkVisual.msg;msg/Modes.msg;msg/RobotModuleOrder.msg;msg/RobotConfigCommanded.msg;msg/RobotConfigMeasured.msg;msg/RobotDescription.msg;msg/RobotGroupDescription.msg;msg/RobotGroupModuleOrder.msg")
+set(modrob_simulation_SERVICE_FILES "")

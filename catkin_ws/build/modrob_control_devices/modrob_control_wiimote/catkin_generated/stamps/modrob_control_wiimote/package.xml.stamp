@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>modrob_control_wiimote</name>
+  <version>1.0.0</version>
+  <description>Wiimote control to the modular robot.</description>
+
+  <maintainer email="f.roessler@tum.de">Felix Roessler</maintainer>
+  <license>BSD</license>
+
+  <author>Felix Roessler</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>cwiid-dev</build_depend>
+  <build_depend>roslint</build_depend>
+
+  <depend>genmsg</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>python-cwiid</depend>
+  <depend>python-numpy</depend>
+  <depend>roslib</depend>
+  <depend>rospy</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>std_srvs</depend>
+
+  <exec_depend>cwiid</exec_depend>
+
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <build_depend>kdl_parser</build_depend>
+  <build_depend>kdl_conversions</build_depend>
+  <build_export_depend>kdl_parser</build_export_depend>
+  <build_export_depend>kdl_conversions</build_export_depend>
+  <exec_depend>kdl_parser</exec_depend>
+  <exec_depend>kdl_conversions</exec_depend>
+
+
+  <export>
+    <architecture_independent/>
+  </export>
+</package>

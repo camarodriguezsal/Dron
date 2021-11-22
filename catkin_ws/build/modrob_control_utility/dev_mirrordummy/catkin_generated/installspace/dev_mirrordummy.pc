@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: dev_mirrordummy
+Description: Description of dev_mirrordummy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

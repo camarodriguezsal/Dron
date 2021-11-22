@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>modrob_control_gui</name>
+  <version>0.0.0</version>
+  <description>The modrob_control_gui package</description>
+  
+  <maintainer email="ros@todo.todo">ros</maintainer>
+
+  <license>BSD</license>
+
+
+  <!-- Original author-->
+  <author>Martin Troiber</author>
+
+  <!-- Later changes for WS20 -->
+  <author email="ge46hug@mytum.de">Max Körsten</author>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rosbridge_server</build_depend>
+  <build_export_depend>rosbridge_server</build_export_depend>
+  <exec_depend>rosbridge_server</exec_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>

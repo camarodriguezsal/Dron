@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>modrob_visualization</name>
+  <version>1.0.0</version>
+  <description>Modular Robot visualization package</description>
+
+
+  <maintainer email="ge46hug@mytum.de">Maximilian Körsten</maintainer>
+  <!-- Original Authors-->
+  <author>Adrian Schultz, Pascal Goldbrunner, Teodor Karlgren, Tobias Piltz</author>
+  <!-- Later changes for WS20 by-->
+  <author>Maximilian Körsten</author>
+
+
+  <license>BSD</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>moveit_core</build_depend>
+  <build_depend>moveit_visual_tools</build_depend>
+  <build_depend>moveit_ros_planning</build_depend>
+  <build_depend>moveit_ros_planning_interface</build_depend>
+
+  <depend>modrob_workstation</depend>
+
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <build_depend>roslaunch</build_depend>
+
+  <exec_depend>moveit_core</exec_depend>
+  <exec_depend>moveit_visual_tools</exec_depend>
+  <exec_depend>moveit_ros_planning_interface</exec_depend>
+
+  <exec_depend>joint_state_publisher</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>rviz</exec_depend>
+  <exec_depend>xacro</exec_depend>
+
+  <build_depend>kdl_parser</build_depend>
+  <exec_depend>kdl_parser</exec_depend>
+
+
+</package>

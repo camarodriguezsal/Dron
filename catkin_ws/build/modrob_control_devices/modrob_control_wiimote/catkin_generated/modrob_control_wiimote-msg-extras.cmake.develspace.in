@@ -1,0 +1,2 @@
+set(modrob_control_wiimote_MESSAGE_FILES "/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/msg/CartVelConfigCommanded.msg;/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/msg/State.msg;/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/msg/IrSourceInfo.msg;/home/camilo/catkin_ws/src/modrob_control_devices/modrob_control_wiimote/msg/TimedSwitch.msg")
+set(modrob_control_wiimote_SERVICE_FILES "")

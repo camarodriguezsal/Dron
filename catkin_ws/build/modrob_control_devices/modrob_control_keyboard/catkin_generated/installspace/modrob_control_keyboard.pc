@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: modrob_control_keyboard
+Description: Description of modrob_control_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs modrob_control_kinematics

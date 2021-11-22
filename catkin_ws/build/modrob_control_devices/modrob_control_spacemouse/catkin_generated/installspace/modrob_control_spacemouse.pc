@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: modrob_control_spacemouse
+Description: Description of modrob_control_spacemouse
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp spacenav_node std_msgs modrob_control_kinematics

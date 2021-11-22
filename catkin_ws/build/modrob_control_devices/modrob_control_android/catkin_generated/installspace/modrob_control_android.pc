@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/install
+
+Name: modrob_control_android
+Description: Description of modrob_control_android
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

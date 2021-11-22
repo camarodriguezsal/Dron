@@ -1,0 +1,8 @@
+prefix=/home/camilo/catkin_ws/devel
+
+Name: modrob_resources
+Description: Description of modrob_resources
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
